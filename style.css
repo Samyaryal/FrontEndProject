@@ -3,6 +3,7 @@ body{
 }
 .container{ 
     margin-top: 5rem;
+    width: 100%;
 }
 
 .header-line-1{
